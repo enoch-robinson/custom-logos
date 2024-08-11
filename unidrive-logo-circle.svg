@@ -1,10 +1,10 @@
 <svg width="600" height="600" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
   <!-- 背景圆圈 -->
-  <circle cx="50" cy="50" r="40" fill="#e87766"/>
+  <circle cx="50" cy="50" r="45" fill="#e87766"/>
   <!-- 内部圆圈 -->
-  <circle cx="50" cy="50" r="30" fill="#ee4e34"/>
+  <circle cx="50" cy="50" r="35" fill="#ee4e34"/>
   <!-- 大圆角方形 -->
-  <rect x="25" y="32" width="50" height="35" rx="6" ry="6" fill="#fff" transform="rotate(30, 50, 50)"/>
+  <rect x="20" y="30" width="60" height="40" rx="6" ry="6" fill="#fff" transform="rotate(30, 50, 50)"/>
   <!-- 小圆角方形 -->
-  <rect x="35" y="46" width="32" height="8" rx="3" ry="6" fill="#e87766" transform="rotate(-60, 50, 50)"/>
+  <rect x="34" y="46" width="32" height="8" rx="3" ry="6" fill="#e87766" transform="rotate(-60, 50, 50)"/>
 </svg>
